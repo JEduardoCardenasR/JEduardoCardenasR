@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy [Eduardo Cárdenas]</h1>
+<h1 align="center">¡Hola! 👋 Soy Eduardo Cárdenas</h1>
 
 <p align="center">
 Desarrollador Full Stack con enfoque humano y técnico, combinando experiencia en programación, negocios y docencia.
@@ -73,19 +73,10 @@ Interfaz amigable con tarjetas interactivas para agregar, editar y eliminar hobb
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="langs" />
-</p>
-
----
-
 ### 📫 Contacto
 
-- ✉️ Email: [jcardenasya@gmail.com]  
-- 💼 LinkedIn: [https://www.linkedin.com/in/eduardo-cardenas-896883363/)  
+- ✉️ Email: jcardenasya@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/eduardo-cardenas-896883363/ 
 
 ---
 
