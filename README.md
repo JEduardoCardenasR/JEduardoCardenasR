@@ -1,57 +1,61 @@
-<h1 align="center">¡Hola! 👋 Soy Eduardo Cárdenas</h1>
+<h1 align="center">👋 Hi there! I'm Eduardo Cárdenas</h1>
 
 <p align="center">
-Desarrollador Full Stack con enfoque humano y técnico, combinando experiencia en programación, negocios y docencia.
+Full Stack & Back-end Developer | AI Enthusiast | MBA in International Business  
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mí
+### 🧑‍💻 About Me
 
-Soy un desarrollador Full Stack con sólida formación académica y experiencia práctica en la creación de aplicaciones web dinámicas que resuelven problemas reales mediante soluciones tecnológicas intuitivas y funcionales.
+I am a **Full Stack and Back-end Developer** with experience building **web, desktop, and AI-powered applications**.  
+I specialize in designing **modular and scalable systems**, integrating **REST APIs, clean architectures, cloud services, and language models**.  
 
-A lo largo de mi trayectoria he desarrollado diversos proyectos que combinan un backend robusto con frontends accesibles y centrados en el usuario, utilizando tecnologías como:
-
-- **Node.js**, **React**, **NestJS**
-- **PostgreSQL**, **MongoDB**
-- **Docker**, **JWT**, **TypeORM**
-
-Mi formación incluye una **Maestría en Administración de Empresas** (MBA) con especialización en **Negocios Internacionales**, lo que me brinda una visión estratégica complementaria al desarrollo. Además, tengo una fuerte vocación docente: he enseñado programación (JavaScript, Python) y cuento con más de una década como profesor de inglés, reforzando mis habilidades comunicativas, pedagógicas y de liderazgo.
+My background is a mix of **technical expertise, business knowledge, and teaching experience**:  
+- ⚙️ Development of web and backend solutions with **Python, JavaScript, TypeScript, React, NestJS, PostgreSQL, MongoDB, Docker, and Cloud platforms (AWS, GCP)**.  
+- 🎓 **MBA in International Business** + **Bachelor’s in Computer Systems Engineering**.  
+- 👨‍🏫 Instructor of programming (Python, JavaScript, HTML, CSS) and **10+ years as an English teacher**, strengthening leadership and communication skills.  
+- 🤝 Experience working on both **individual projects and international teams**, always focused on combining **technology with human-centered solutions**.  
 
 ---
 
-### 🚀 Proyectos destacados
+### 🚀 Featured Projects
 
-#### 🔹 Plataforma de servicios profesionales
-> NestJS · React · PostgreSQL  
-Web completa que conecta oferentes y demandantes de servicios, con autenticación, dashboard y gestión de perfiles.
-🔗 [Ver repositorio](https://github.com/JEduardoCardenasR/TecniClick-Backend)
+#### 🔹 AI News Segmenter (Back-end)
+> Python · Docker · Google Cloud · AWS Console · Gemini 2.5 · GitLab  
+Developed a new version of an AI-powered automatic news segmentation tool for Grupo ICC España (remote).  
+🔗 [Private repo / case study available on request]
 
-#### 🔹 API REST para eCommerce
-> NestJS · PostgreSQL · JWT · Docker  
-Aplicación backend robusta que gestiona usuarios, productos, órdenes y autenticación con control de roles.  
-🔗 [Ver repositorio](https://github.com/JEduardoCardenasR/Backend-Ecommerce)
+#### 🔹 Home Services Platform (Back-end)
+> TypeScript · SQL · PostgreSQL · TypeORM · Swagger  
+REST API with secure authentication, appointment management, Stripe payments, image uploading, and automated notifications.  
+🔗 [View repo](https://github.com/JEduardoCardenasR/TecniClick-Backend)
 
-#### 🔹 Web para consultorio médico
-> TypeScript · React  
-Aplicación frontend para agendar y cancelar citas médicas con validaciones y vista personalizada.
-🔗 [Ver repositorio](https://github.com/JEduardoCardenasR/Proyecto-Gestion-Citas)
+#### 🔹 E-commerce REST API (Back-end)
+> NestJS · PostgreSQL · JWT · Docker · Cloudinary · Stripe  
+Backend API for managing users, products, categories, and orders with role-based authentication.  
+🔗 [View repo](https://github.com/JEduardoCardenasR/Backend-Ecommerce)
 
-#### 🔹 Plataforma de películas
-> MongoDB · Node.js · Express  
-Backend que permite almacenar, consultar y administrar una colección de películas personalizadas.
-🔗 [Ver repositorio](https://github.com/JEduardoCardenasR/Proyecto-Peliculas)
+#### 🔹 Medical Practice Website (Full Stack)
+> TypeScript · React · Node.js · MongoDB  
+Dynamic web app enabling intuitive appointment scheduling and cancellations.  
+🔗 [View repo](https://github.com/JEduardoCardenasR/Proyecto-Gestion-Citas)
 
+#### 🔹 Desktop Management Application
+> Electron · TypeScript · SQLite · Clean Architecture  
+Cross-platform desktop application for administrative management at the nonprofit *Súmate al Amor A.C.*  
+🔗 [View repo](https://github.com/JEduardoCardenasR)
 
-#### 🔹 Web de gestión de pasatiempos
+#### 🔹 Hobbies Management Web
 > HTML · CSS · JavaScript  
-Interfaz amigable con tarjetas interactivas para agregar, editar y eliminar hobbies.
-🔗 [Ver repositorio](https://github.com/JEduardoCardenasR/Tarjetas-interactivas)
+Interactive cards interface to add, edit, and delete hobbies.  
+🔗 [View repo](https://github.com/JEduardoCardenasR/Tarjetas-interactivas)
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Tech Stack
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -60,25 +64,28 @@ Interfaz amigable con tarjetas interactivas para agregar, editar y eliminar hobb
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GoogleCloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📚 Formación y fortalezas
+### 📚 Education & Teaching
 
-- 🎓 Maestría en Administración de Empresas – Negocios Internacionales  
-- 👨‍🏫 Experiencia docente en programación (JavaScript, Python)  
-- 🗣️ Más de 10 años como profesor de inglés  
-- 💬 Comunicación efectiva, liderazgo y aprendizaje continuo  
-
----
-
-### 📫 Contacto
-
-- ✉️ Email: jcardenasya@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/eduardo-cardenas-896883363/ 
+- 🎓 Master’s in Business Administration – International Business  
+- 🎓 Bachelor’s in Computer Systems Engineering  
+- 👨‍🏫 Programming Instructor (Python, JavaScript, HTML, CSS)  
+- 🗣️ English Instructor – 10+ years of teaching experience  
 
 ---
 
-> “La mejor forma de predecir el futuro es programarlo.” – Alan Kay
-> ¡Estoy abierto a nuevas oportunidades! 🚀
+### 📫 Let’s Connect!
+
+- ✉️ Email: **jcardenasya@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/eduardo-cardenas-896883363](https://www.linkedin.com/in/eduardo-cardenas-896883363)  
+- 🐙 GitHub: **JEduardoCardenasR**  
+
+---
+
+> *“The best way to predict the future is to program it.” – Alan Kay*  
+> 🚀 Always open to exciting opportunities in Full Stack, Back-end, and AI projects.  
