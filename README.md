@@ -12,6 +12,7 @@ I am a Software Engineer and Data Specialist focused on building reliable, scala
 
 With a background that combines technical engineering, an MBA in International Business, and years of teaching experience, I bridge the gap between complex code, data-driven insights, and business value.  
 
+
 🚀 Core Expertise
 Software Development: Building modular architectures and REST APIs with Python, JavaScript, TypeScript, React, and NestJS.
 
@@ -21,6 +22,7 @@ Data Platforms: Managing scalable environments in BigQuery, PostgreSQL, MongoDB,
 
 Cloud & AI: Deploying solutions on AWS & GCP, integrating LLMs (Gemini, OpenAI), and developing AI-powered tools.
 
+
 🎓 Education & Leadership
 Currently Pursuing: Bachelor’s in Artificial Intelligence Engineering.
 
@@ -29,9 +31,6 @@ Credentials: MBA in International Business + B.S. in Computer Systems Engineerin
 Certifications: Software Development Bootcamp & Data Engineer Bootcamp
 
 Soft Skills: 10+ years as an English Teacher and Programming Instructor, fostering leadership and clear technical communication.
-
-🛠️ Technical Stack
-Python | TypeScript | Node.js | SQL | Terraform | Airflow | dbt | Docker | AWS/GCP | Spark
 
 ---
 
