@@ -1,30 +1,57 @@
 <h1 align="center">👋 Hi there! I'm Eduardo Cárdenas</h1>
 
 <p align="center">
-Full Stack & Back-end Developer | AI Enthusiast | MBA in International Business  
+Software Engineer & Data Specialist | AI Enthusiast | MBA in International Business  
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I am a **Full Stack and Back-end Developer** with experience building **web, desktop, and AI-powered applications**.  
-I specialize in designing **modular and scalable systems**, integrating **REST APIs, clean architectures, cloud services, and language models**.  
+I am a Software Engineer and Data Specialist focused on building reliable, scalable systems and automating high-performance data workflows. My expertise lies at the intersection of Back-end development, Data Engineering (ETL/ELT), and AI integration.
 
-My background is a mix of **technical expertise, business knowledge, and teaching experience**:  
-- ⚙️ Development of web and backend solutions with **Python, JavaScript, TypeScript, React, NestJS, PostgreSQL, MongoDB, Docker, and Cloud platforms (AWS, GCP)**.  
-- 🎓 **MBA in International Business** + **Bachelor’s in Computer Systems Engineering**.  
-- 👨‍🏫 Instructor of programming (Python, JavaScript, HTML, CSS) and **10+ years as an English teacher**, strengthening leadership and communication skills.  
-- 🤝 Experience working on both **individual projects and international teams**, always focused on combining **technology with human-centered solutions**.  
+With a background that combines technical engineering, an MBA in International Business, and years of teaching experience, I bridge the gap between complex code, data-driven insights, and business value.  
+
+🚀 Core Expertise
+Software Development: Building modular architectures and REST APIs with Python, JavaScript, TypeScript, React, and NestJS.
+
+Data Engineering: Designing robust ETL/ELT pipelines using Terraform, Apache Airflow, dbt, Spark, and Kafka.
+
+Data Platforms: Managing scalable environments in BigQuery, PostgreSQL, MongoDB, and Docker.
+
+Cloud & AI: Deploying solutions on AWS & GCP, integrating LLMs (Gemini, OpenAI), and developing AI-powered tools.
+
+🎓 Education & Leadership
+Currently Pursuing: Bachelor’s in Artificial Intelligence Engineering.
+
+Credentials: MBA in International Business + B.S. in Computer Systems Engineering.
+
+Certifications: Software Development Bootcamp & Data Engineer Bootcamp
+
+Soft Skills: 10+ years as an English Teacher and Programming Instructor, fostering leadership and clear technical communication.
+
+🛠️ Technical Stack
+Python | TypeScript | Node.js | SQL | Terraform | Airflow | dbt | Docker | AWS/GCP | Spark
 
 ---
 
 ### 🚀 Featured Projects
 
+
+#### 🔹 Green AI: Sustainability & Carbon Tracking Platform
+> AWS · Apache Spark · Apache Airflow · Kafka · Streamlit · Python  
+Led a data engineering team as Scrum Master to build a scalable Lakehouse and a "Control Tower" for real-time AI carbon footprint monitoring and regional energy optimization.  
+🔗 [View repo]([https://github.com/JEduardoCardenasR/Tarjetas-interactivas](https://github.com/JEduardoCardenasR/Green-AI-Analytics-Platform.git))
+
 #### 🔹 AI News Segmenter (Back-end)
 > Python · Docker · Google Cloud · AWS Console · Gemini 2.5 · GitLab  
 Developed a new version of an AI-powered automatic news segmentation tool for Grupo ICC España (remote).  
 🔗 [Private repo / case study available on request]
+
+#### 🔹 Desktop Management Application
+> Electron · TypeScript · SQLite · Clean Architecture  
+Cross-platform desktop application for administrative management at the nonprofit *Súmate al Amor A.C.*  
+🔗 [View repo]([https://github.com/JEduardoCardenasR](https://github.com/JEduardoCardenasR/Leukemia.git))
 
 #### 🔹 Home Services Platform (Back-end)
 > TypeScript · SQL · PostgreSQL · TypeORM · Swagger  
@@ -41,19 +68,11 @@ Backend API for managing users, products, categories, and orders with role-based
 Dynamic web app enabling intuitive appointment scheduling and cancellations.  
 🔗 [View repo](https://github.com/JEduardoCardenasR/Proyecto-Gestion-Citas)
 
-#### 🔹 Desktop Management Application
-> Electron · TypeScript · SQLite · Clean Architecture  
-Cross-platform desktop application for administrative management at the nonprofit *Súmate al Amor A.C.*  
-🔗 [View repo](https://github.com/JEduardoCardenasR)
-
-#### 🔹 Hobbies Management Web
-> HTML · CSS · JavaScript  
-Interactive cards interface to add, edit, and delete hobbies.  
-🔗 [View repo](https://github.com/JEduardoCardenasR/Tarjetas-interactivas)
-
 ---
 
 ### 🛠️ Tech Stack
+
+🐍 Software Development
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -68,14 +87,19 @@ Interactive cards interface to add, edit, and delete hobbies.
 ![GCP](https://img.shields.io/badge/-GoogleCloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+⚙️ Data Engineering & Orchestration
 
-### 📚 Education & Teaching
-
-- 🎓 Master’s in Business Administration – International Business  
-- 🎓 Bachelor’s in Computer Systems Engineering  
-- 👨‍🏫 Programming Instructor (Python, JavaScript, HTML, CSS)  
-- 🗣️ English Instructor – 10+ years of teaching experience  
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Airbyte](https://img.shields.io/badge/-Airbyte-6133FF?style=flat-square&logo=airbyte&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Scrum Master](https://img.shields.io/badge/-Scrum%20Master-808080?style=flat-square&logo=scrumalliance&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
